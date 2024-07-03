@@ -1,0 +1,1 @@
+![알림](https://github.com/cjfghksals/hamster_detector_v3/assets/95117186/4b2c05ee-0419-403a-9945-408b68df63b1) ![슬랙](https://github.com/cjfghksals/hamster_detector_v3/assets/95117186/8e08ed10-e74e-44fa-9ea4-c6c3be8a8fa8) ![카메라](https://github.com/cjfghksals/hamster_detector_v3/assets/95117186/ea61dcb3-3110-43b8-b696-d2e97b7a28ca)
